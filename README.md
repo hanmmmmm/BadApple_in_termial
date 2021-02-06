@@ -5,7 +5,7 @@ This is the code for showing the touhou "badapple" MV in terminal using symbols.
 
 YouTube links:
 
-- My video: 
+- My video: https://www.youtube.com/watch?v=h-y1YlCyIds&feature=youtu.be
 
 
 - original Bad Apple MV:
