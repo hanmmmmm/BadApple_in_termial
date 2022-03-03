@@ -11,5 +11,10 @@ YouTube links:
 - original Bad Apple MV:
    https://www.youtube.com/watch?v=FtutLA63Cp8
    
-![alt text](https://github.com/hanmmmmm/BadApple_in_termial/blob/main/Screenshot.png?raw=true)
+<!-- ![alt text](https://github.com/hanmmmmm/BadApple_in_termial/blob/main/Screenshot.png?raw=true) -->
+
+<a id="badapple" href="https://github.com/hanmmmmm/BadApple_in_termial/blob/main/badapple.gif">
+    <img src="https://github.com/hanmmmmm/BadApple_in_termial/blob/main/badapple.gif" alt="badapple" title="badapple" width="850"/>
+</a>
+
 
